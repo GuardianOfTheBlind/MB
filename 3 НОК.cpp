@@ -51,8 +51,3 @@ unsigned lcm(const int a, const int b)
 
 	return (a * b) / bingcd(val1, val2);
 }
-
-unsigned bingcd(const int a, const int b)
-{
-	return 0;
-}
