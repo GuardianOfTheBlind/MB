@@ -20,7 +20,6 @@ int main()
 	std::cout << "LCM(" << value1 << ", " << value2 << ") = " << result << std::endl;
 	return 0;
 
-	return 0;
 }
 
 
